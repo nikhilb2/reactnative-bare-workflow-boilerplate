@@ -1,0 +1,17 @@
+{
+  "name": "appetito",
+  "displayName": "appetito",
+  "expo": {
+    "name": "appetito",
+    "slug": "appetito",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
